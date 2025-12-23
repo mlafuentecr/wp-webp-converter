@@ -89,8 +89,6 @@ NOTES
 - 
 ## Settings Preview
 
-![Microbite WebP Converter – Media Settings](dash.jpeg)
-
 <p align="center">
   <img src="dash.jpeg" alt="Microbite WebP Converter Media Settings" width="800">
 </p>
