@@ -1,10 +1,13 @@
-Microbite WebP Converter (Safe Version)
+ WebP Converter (Safe Version)
 
 Automatically converts uploaded images in WordPress to optimized WebP format
 using PHP Imagick.
 
 This lightweight plugin converts images ONLY if the resulting WebP file
 is smaller than the original.
+<p align="center">
+  <img src="dash.jpeg" alt=" WebP Converter Media Settings" width="800">
+</p>
 
 ============================================================
 
@@ -89,6 +92,3 @@ NOTES
 - 
 ## Settings Preview
 
-<p align="center">
-  <img src="dash.jpeg" alt="Microbite WebP Converter Media Settings" width="800">
-</p>
